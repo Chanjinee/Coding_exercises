@@ -1,8 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
+# 날짜를 입력받아 요일을 확인해주는 코드
 
 #날짜 입력받기 & eco checking
 year = int(input("year> "))
